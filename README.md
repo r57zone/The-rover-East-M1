@@ -1,5 +1,3 @@
-The rover East M1
-=================
 ![](https://github.com/r57zone/The-rover-East-M1/blob/master/rover.png)
 <h2>RU: Марсоход Восток М1</h2>
 
