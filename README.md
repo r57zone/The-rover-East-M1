@@ -1,7 +1,7 @@
 <h2>RU: Марсоход Восток М1</h2>
 ![](https://github.com/r57zone/The-rover-East-M1/blob/master/rover.png)
 
-Задача марсохода высадится на неизвестной планете, с неизвестным климатом. Узнать больше о планете со спутников не удается. Место высадки также не известно, возможно вода. 
+Задача марсохода высадится на неизвестной планете, с неизвестным климатом. Узнать больше о планете со спутников не удается. Место высадки также не известно, возможно не твердая поверхность. 
 
 <b>Основная миссия</b>
 
@@ -17,7 +17,7 @@
 
 <h2>EN: The rover East M1</h2>
 
-The task of the rover landed on an unknown planet, with unknown climate. Explore the planet with satellites fails. Landing place is also not known, probably water.
+The task of the rover landed on an unknown planet, with unknown climate. Explore the planet with satellites fails. Landing place is also not known, probably no solid surface.
 
 <b>The main mission</b>
 
