@@ -1,5 +1,5 @@
 <h2>RU: Марсоход Восток М1</h2>
-![](https://github.com/r57zone/The-rover-East-M1/blob/master/rover.png)
+![](https://github.com/r57zone/The-rover-East-M1/blob/master/rover1.png)
 ![](https://github.com/r57zone/The-rover-East-M1/blob/master/rover2.png)
 
 Задача марсохода высадится на неизвестной планете, с неизвестным климатом. Узнать больше о планете со спутников не удается. Место высадки также не известно, возможно не твердая поверхность. 
